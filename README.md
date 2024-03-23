@@ -1,2 +1,5 @@
-# Scifi Writer, Technical Writer, Pixel Artist, and Game Developer
-That's who I am. I'm passionate about writing fiction and making retro-styled games.
+# Hello world...?
+I'm Ted Mahsun.
+Scifi Writer, Technical Writer, Pixel Artist, and Game Developer
+
+I'm passionate about writing fiction and making retro-styled games.
